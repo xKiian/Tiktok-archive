@@ -8,7 +8,7 @@
 
 <p align="center"> 
   <kbd>
-<img src="https://storage.googleapis.com/myomr_profilepic_prod/uploads/partner_company/web_logo/1821/web_logo.jpg"></img>
+<img src="https://storage.googleapis.com/myomr_profilepic_prod/uploads/partner_company/web_logo/1821/web_logo.jpg" height="250px" width="250px"></img>
   </kbd>
 </p>
 
