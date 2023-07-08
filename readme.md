@@ -6,11 +6,6 @@
 
 <h1 align="center">All Tiktok versions from 0 - 25</h1>
 
-<p align="center"> 
-  <kbd>
-<img src="https://storage.googleapis.com/myomr_profilepic_prod/uploads/partner_company/web_logo/1821/web_logo.jpg" height="350px" width="350px"></img>
-  </kbd>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/languages/top/xkiian/tiktok-archive?style=flat-square">
